@@ -1,3 +1,6 @@
 node_modules/
 dist/
 .DS_Store
+# Allow built files in root for GitHub Pages legacy deployment
+!/assets/
+!/index.html
